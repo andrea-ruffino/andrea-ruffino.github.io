@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://andrearuffino.github.io/sitemap.xml
+Sitemap: https://andrea-ruffino.github.io/sitemap.xml
