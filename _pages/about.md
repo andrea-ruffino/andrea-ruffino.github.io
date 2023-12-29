@@ -24,4 +24,4 @@ Then he has worked on the design of cryo-CMOS circuits for spin and superconduct
 
 He has completed 7+ tape-outs, getting involved in the design of analog, mixed-signal and RF circuit blocks as well as complex systems-on-chip (SoCs) in several deep submicron and FinFET CMOS technologies.
 
-He is a published author at Nature Electronics, JSSC, EDL, ISSCC, RFIC, ESSCIRC and his Ph.D. thesis was nominated for several EPFL awards.
+He is a published author at <em>Nature Electronics</em>, JSSC, EDL, ISSCC, RFIC, ESSCIRC and his Ph.D. thesis was nominated for several EPFL awards.
