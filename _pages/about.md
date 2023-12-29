@@ -5,7 +5,7 @@ permalink: /
 subtitle: <strong>Research scientist</strong> and analog/RF <strong>IC designer</strong>, <strong>Ph.D.</strong>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
