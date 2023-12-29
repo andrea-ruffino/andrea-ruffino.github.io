@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research scientist and analog/RF IC designer, Ph.D.
+subtitle: <strong>Research scientist</strong> and analog/RF <strong>IC designer</strong>, <strong>Ph.D.</strong>
 
 profile:
   align: right
