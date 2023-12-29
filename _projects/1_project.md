@@ -2,7 +2,7 @@
 layout: page
 title: Cryo-CMOS circulator
 description: A non-reciprocal device for qubit readout
-img: assets/img/12.jpg
+img: assets/img/circulator.png
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
