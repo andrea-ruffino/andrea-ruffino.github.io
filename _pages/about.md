@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Andrea Ruffino is a research scientist in the domain of analog/mixed-signal/RF IC design. He has 7+ years of experience, mostly working on the topic of cryogenic CMOS circuit design for quantum.
 
-He obtained his Ph.D. at EPFL, working between EPFL and TU Delft, focusing on the design of single-chip cryo-CMOS transceivers for spin qubit readout and control.
+He obtained his Ph.D. at <a href="https://aqua.epfl.ch/" style="color:red;">EPFL</a>, working between EPFL and <a href="https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/quantum-circuits-architectures-and-technology/groups/quantum-integrated-circuits" style="color:#3498DB;">TU Delft</a>, focusing on the design of single-chip cryo-CMOS transceivers for spin qubit readout and control.
 Then he has worked on the design of cryo-CMOS circuits for spin and superconducting qubits at IBM Research - Zurich.
 
 He has completed 7+ tape-outs, getting involved in the design of analog, mixed-signal and RF circuit blocks as well as complex systems-on-chip (SoCs) in several deep submicron and FinFET CMOS technologies.
